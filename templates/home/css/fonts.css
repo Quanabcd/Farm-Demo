@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Montserrat-Regular'; 
+  src: url('/templates/home/fonts/Montserrat-Regular.otf');
+}
+@font-face {
+  font-family: 'Montserrat-ExtraLight'; 
+  src: url('/templates/home/fonts/Montserrat-ExtraLight.otf');
+}
+@font-face {
+  font-family: 'Montserrat-Light'; 
+  src: url('/templates/home/fonts/Montserrat-Light.otf');
+}
+@font-face {
+  font-family: 'Montserrat-Medium'; 
+  src: url('/templates/home/fonts/Montserrat-Medium.otf');
+}
+@font-face {
+  font-family: 'Montserrat-Bold'; 
+  src: url('/templates/home/fonts/Montserrat-Bold.otf');
+}
+@font-face {
+  font-family: 'Montserrat-ExtraBold'; 
+  src: url('/templates/home/fonts/Montserrat-ExtraBold.otf');
+}
+@font-face {
+  font-family: 'Montserrat-Thin'; 
+  src: url('/templates/home/fonts/Montserrat-Thin.otf');
+}
+@font-face {
+  font-family: 'BeautiqueDisplay-Regular'; 
+  src: url('/templates/home/fonts/BeautiqueDisplay-Regular.otf');
+}
+@font-face {
+  font-family: 'BeautiqueDisplay-Medium'; 
+  src: url('/templates/home/fonts/BeautiqueDisplay-Medium.otf');
+}
+@font-face {
+  font-family: 'BeautiqueDisplay-Bold'; 
+  src: url('/templates/home/fonts/BeautiqueDisplay-Bold.otf');
+}
