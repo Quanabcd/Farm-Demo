@@ -48,6 +48,7 @@ $(document).ready(function () {
       "<i class='fa fa-long-arrow-right'></i>",
     ],
   });
+  
   function SetOwlCarouselFirstLast(el) {
     el.find(".owl-item").removeClass("first");
     el.find(".owl-item.active").first().addClass("first");
