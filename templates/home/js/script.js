@@ -31,6 +31,21 @@ $(document).ready(function () {
     navigationText: ["", ""],
     lazyEffect: "fade",
   });
+  $(".slider-image-show").owlCarousel({
+    items: 1,
+    lazyLoad: true,
+    navigation: true,
+    autoplay: true,
+    addClassActive: true,
+    itemsDesktop: [1199, 1],
+    itemsDesktopSmall: [979, 1],
+    itemsTablet: [768, 1],
+    itemsTabletSmall: [480, 1],
+    itemsMobile: [360, 1],
+    navigation: false,
+    navigationText: ["", ""],
+    lazyEffect: "fade",
+  });
   $(".slider-box-prj").owlCarousel({
     items: 4,
     lazyLoad: true,
