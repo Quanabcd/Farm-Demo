@@ -957,6 +957,11 @@ a:focus {
   z-index: 9;
 }
 
+.news-page .news-top-hot-box .item img {
+  height: 295px;
+  object-fit: cover;
+}
+
 .news-page .banner {
   position: relative;
 }
